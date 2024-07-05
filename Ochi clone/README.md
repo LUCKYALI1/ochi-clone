@@ -11,11 +11,21 @@ This project is a single-page website clone created using React.js, Tailwind CSS
 - Locomotive Scroll
 - React Icons
 
-## Screenshots
+### Desktop Screenshots
 
-     ![landingpage](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/landingpage.png)
-     
+![Landing Page](https://github.com/LUCKYALI1/ochi-clone/raw/main/Ochi%20clone/asset/landingpage.png)
+<br>
 
+![Marquee Page](https://github.com/LUCKYALI1/ochi-clone/raw/main/Ochi%20clone/asset/marque.png)
+<br>
+
+![About Page](https://github.com/LUCKYALI1/ochi-clone/raw/main/Ochi%20clone/asset/about.png)
+<br>
+
+![Playable Eye](https://github.com/LUCKYALI1/ochi-clone/raw/main/Ochi%20clone/asset/playableeye.png)
+<br>
+
+![Footer](https://github.com/LUCKYALI1/ochi-clone/raw/main/Ochi%20clone/asset/footer.png)
 
 ## Installation
 
