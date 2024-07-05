@@ -12,7 +12,7 @@ This project is a single-page website clone created using React.js, Tailwind CSS
 - React Icons
 
 ## Screenshots
-     ### desktop
+
      ![landingpage](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/landingpage.png)
      <br>
      ![Marqueepage](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/marque.png)
@@ -20,6 +20,7 @@ This project is a single-page website clone created using React.js, Tailwind CSS
      ![Aboutpage](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/about.png)
      ![playableeye](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/about.png)
      ![footer](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/footer.png)
+
 
 ## Installation
 
