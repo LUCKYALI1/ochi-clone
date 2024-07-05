@@ -4,3 +4,4 @@ Ochi is a strategic partner for fast-growing tech businesses that need to raise 
 ### 2.Project Overview
 “I crafted a single-page website clone using React.js, Tailwind CSS, Locomotive Scroll (for smooth scrolling), and React Icons. Additionally, I deployed the project on github. 💻🚀”
 Web development and design can be challenging 👍, but it’s also a lot of fun. 😉 Enjoy the process and don’t be afraid to experiment and try new things! Happy coding! 🌟👨‍💻👩‍💻
+
