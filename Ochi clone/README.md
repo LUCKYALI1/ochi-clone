@@ -14,12 +14,7 @@ This project is a single-page website clone created using React.js, Tailwind CSS
 ## Screenshots
 
      ![landingpage](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/landingpage.png)
-     <br>
-     ![Marqueepage](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/marque.png)
-     <br>
-     ![Aboutpage](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/about.png)
-     ![playableeye](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/about.png)
-     ![footer](https://github.com/LUCKYALI1/ochi-clone/blob/main/Ochi%20clone/asset/footer.png)
+     
 
 
 ## Installation
@@ -38,7 +33,3 @@ Once the development server is running, open your browser and navigate to `http:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
