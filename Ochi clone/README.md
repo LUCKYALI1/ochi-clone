@@ -1,4 +1,4 @@
-# Project Name
+# Ochi Clone
 
 ## Description
 
